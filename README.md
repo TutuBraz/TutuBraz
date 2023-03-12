@@ -17,6 +17,7 @@
     </a>
 </div>  
 
+
 ### Veja meus projetos de vizualização em:
 
 <div>
@@ -25,7 +26,7 @@
     </a>
 </div>
     
-    
+
 ### Linguagens e ferramentas:
     
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -35,3 +36,12 @@
     
 <br />
 <br />
+
+
+### Estatísticas:
+
+<div align="left">
+  <a href="https://github.com/TutuBraz">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=tutubraz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutubraz&layout=compact&langs_count=7&theme=dark"/>
+</div>
