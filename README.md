@@ -5,7 +5,7 @@
 - 👯 Trabalhando em projetos pessoais para enriquecer meu portfolio.
 - 🤔 Atualmente estou estudadando: modelos de machinhe learning.
 
-#Me contate em:
+## Me contate em:
 <div>
     <a href="mailto:abrazsantos08@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
@@ -15,6 +15,12 @@
     </a>
 </div>  
 
-</div>
-  [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-</div> 
+## Veja meus projetos de vizualização em:
+
+https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
+
+<div>
+    <a href="https://public.tableau.com/app/profile/arthur.braz.santos" target="_blank">
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"/>
+    </a>
+</div
