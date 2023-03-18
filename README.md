@@ -3,7 +3,7 @@
 ---
 
 - 🏫Cursando estatística pela UFSM.
-- 💻Trabalhando em projetos pessoais para enriquecer meu portfólio.
+- 💻Trabalhando em projetos pessoais para enriquecer meu portifólio.
 - 📚Atualmente estou estudadando: modelos de machinhe learning.
 ---
 
