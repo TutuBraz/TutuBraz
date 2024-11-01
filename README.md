@@ -17,13 +17,6 @@
 </div>  
 
 
-### Veja meus projetos de vizualização em:
-
-<div>
-    <a href="https://public.tableau.com/app/profile/arthur.braz.santos" target="_blank">
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"/>
-    </a>
-</div>
     
 
 ### Linguagens e ferramentas:
