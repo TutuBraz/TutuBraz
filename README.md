@@ -2,9 +2,8 @@
 
 ---
 
-- 🏫Cursando estatística pela UFSM.
+- 🏫Cursando estatística pela UNB.
 - 💻Trabalhando em projetos pessoais para enriquecer meu portifólio.
-- 📚Atualmente estou estudadando: modelos de machinhe learning.
 ---
 
 ### Me contate em:
